@@ -1,0 +1,8 @@
+{
+  "login": "Login",
+  "login-des": "Enter your email and password to login",
+  "register": "Register",
+  "register-des": "Enter your account details to register in system",
+  "email": "Email",
+  "password": "Password"
+}
